@@ -1,2 +1,7 @@
-# demo-paiva-estudio-inmobiliario
-Demo web para PAIVA ESTUDIO INMOBILIARIO — diseñada por eterlab.
+# PAIVA ESTUDIO INMOBILIARIO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
